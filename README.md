@@ -1,3 +1,4 @@
-# `template`
+# `flutter-masterclass`
 
-Template for generic repositories
+- Course: https://netninja.dev/p/flutter-masterclass
+- Repo: https://github.com/iamshaunjp/flutter-masterclass
